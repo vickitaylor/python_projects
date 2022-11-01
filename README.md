@@ -20,8 +20,4 @@
 -   Leap Year Checker
 -   Word Dictionary
 -   Rock, Paper, Scissors
--   Python Face Detection
--   Python Automation
--   Web Scraper
 -   Image Resizer
--   Graph Plotter
